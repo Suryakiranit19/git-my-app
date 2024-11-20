@@ -6,7 +6,7 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-web-app</artifactId>
-  <version>1.1.0-SNAPSHOT</version>
+  <version>1.1.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>my-web-app Maven Webapp</name>
@@ -29,7 +29,6 @@
   </dependencies>
 
   <build>
-  <p>kkk</p>
     <finalName>my-web-app</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
